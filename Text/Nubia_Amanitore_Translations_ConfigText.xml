@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Nubia_Amanitore_Translations_ConfigText -->
+<!-- Author: hqh-h -->
+<!-- DateCreated: 2/10/2020 3:36:13 PM -->
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建造远程单位时+50%建造速度。所有远程单位战斗经验值+50%。战略资源矿产+1 [ICON_Production] 生产力。加成和奢侈品资源矿产+2 [ICON_Gold] 金币。</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有城市建造区域时+20%建造速度。对于市中心与至少一个努比亚金字塔相邻的城市，此加成提高至40%。</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
