@@ -430,9 +430,6 @@
 		<Replace Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>+100%港口相邻加成。</Text>
 		</Replace>
-		<Replace Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>+100%剧院广场区相邻加成，体育场+1 [ICON_Amenities] 宜居度。</Text>
-		</Replace>
 		<Replace Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>+100%商业中心相邻加成。</Text>
 		</Replace>
